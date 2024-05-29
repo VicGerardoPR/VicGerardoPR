@@ -1,6 +1,7 @@
 # Victor Gerardo Rivera
 
 [![GitHub Badge](https://img.shields.io/github/followers/VicGerardoPR?style=social)]((https://github.com/VicGerardoPR))
+[![X Badge](https://img.shields.io/badge/My-X-1DA1F2?logo=x&logoColor=white)](https://x.com/vicgerardo_)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCTeEhApKelJQ7Gn2rhAqKXA)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)]((https://www.linkedin.com/in/victorgerardo/))
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VicGerardoPR)
@@ -13,4 +14,3 @@
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VicGerardoPR&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VicGerardoPR&langs_count=3&hide=javascript,go,html,css,tex)
-# VictorGerardo
