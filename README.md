@@ -14,5 +14,5 @@ Software Organizations I Support:
 
 ---
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jordancaraballo&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jordancaraballo&langs_count=3&hide=javascript,go,html,css,tex)# VictorGerardo
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VicGerardoPR&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VicGerardoPR&langs_count=3&hide=javascript,go,html,css,tex)# VictorGerardo
