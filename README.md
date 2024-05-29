@@ -7,7 +7,7 @@
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow)](https://www.buymeacoffee.com/vicgerardopr)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VicGerardoPR)
 
-¡Hola a todos! Soy un apasionado Científico de Datos con experiencia en el desarrollo y la implementación de soluciones de Machine Learning y Deep Learning. Mi trayectoria incluye el análisis de grandes volúmenes de datos para extraer insights valiosos y ayudar a las empresas a tomar decisiones informadas. Me especializo en la creación de modelos predictivos y sistemas de recomendación, utilizando herramientas avanzadas como Python, TensorFlow y SQL. Comprometido con la innovación y el aprendizaje continuo, siempre busco nuevas maneras de aplicar la inteligencia artificial para resolver problemas complejos y mejorar procesos. ¡Conectemos y exploremos oportunidades para colaborar en proyectos emocionantes!
+¡Hola a todos! Soy un apasionado Científico de Datos con experiencia en el desarrollo y la implementación de soluciones de Machine Learning y Deep Learning. Mi trayectoria incluye el análisis de grandes volúmenes de datos para extraer insights valiosos y ayudar a las empresas a tomar decisiones informadas. Me especializo en la creación de modelos predictivos y sistemas de recomendación, utilizando herramientas avanzadas como Python, TensorFlow, SQL y otras. Comprometido con la innovación y el aprendizaje continuo, siempre busco nuevas maneras de aplicar la inteligencia artificial para resolver problemas complejos y mejorar procesos. ¡Conectemos y exploremos oportunidades para colaborar en proyectos emocionantes!
 
 #DataScience #MachineLearning #DeepLearning #AI #BigData #DataAnalysis
 
