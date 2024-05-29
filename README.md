@@ -5,12 +5,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)]((https://www.linkedin.com/in/victorgerardo/))
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VicGerardoPR)
 
-I am a Computer Engineer with the [Science Data Processing](https://sed.gsfc.nasa.gov/etd/587) branch and the [Computational and Information Sciences and Technology Office](https://science.gsfc.nasa.gov/cisto/) (CISTO) [Data Science Group](https://science.gsfc.nasa.gov/cisto/istr) at the [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard). My research focuses on the development of software to support science research in the areas of Earth observation, artificial intelligence, and high-performance computing. My main interest is to shorten the gap between Earth science and artificial intelligence by means of hardware accelerated software applications, which include the development of GPU-backed data structures to support satellite data formats, deep learning applications to streamline annotation processes, and the portability of software to support open science initiatives via cloud and on-premises environments.
+¡Hola a todos! Soy un apasionado Científico de Datos con experiencia en el desarrollo y la implementación de soluciones de Machine Learning y Deep Learning. Mi trayectoria incluye el análisis de grandes volúmenes de datos para extraer insights valiosos y ayudar a las empresas a tomar decisiones informadas. Me especializo en la creación de modelos predictivos y sistemas de recomendación, utilizando herramientas avanzadas como Python, TensorFlow y SQL. Comprometido con la innovación y el aprendizaje continuo, siempre busco nuevas maneras de aplicar la inteligencia artificial para resolver problemas complejos y mejorar procesos. ¡Conectemos y exploremos oportunidades para colaborar en proyectos emocionantes!
 
-Software Organizations I Support:
-
-* [NASA GSFC Data Science Group](https://github.com/nasa-nccs-hpda)
-* [NASA ARSET](https://github.com/NASAARSET/ARSET_ML_Fundamentals)
+#DataScience #MachineLearning #DeepLearning #AI #BigData #DataAnalysis
 
 ---
 
