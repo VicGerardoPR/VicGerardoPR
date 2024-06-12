@@ -14,6 +14,7 @@ My background in Software Engineering and Business Management, along with my pro
 
 #DataScience #MachineLearning #DeepLearning #AI #BigData #DataAnalysis
 
+Web: https://vicgerardopr.github.io
 ---
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VicGerardoPR&show_icons=true)
