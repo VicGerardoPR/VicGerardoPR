@@ -7,7 +7,10 @@
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow)](https://www.buymeacoffee.com/vicgerardopr)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VicGerardoPR)
 
-¡Hola a todos! Soy un apasionado Científico de Datos con experiencia en el desarrollo y la implementación de soluciones de Machine Learning y Deep Learning. Mi trayectoria incluye el análisis de grandes volúmenes de datos para extraer insights valiosos y ayudar a las empresas a tomar decisiones informadas. Comprometido con la innovación y el aprendizaje continuo, siempre busco nuevas maneras de aplicar la inteligencia artificial para resolver problemas complejos y mejorar procesos.
+
+Hi! I'm Victor Gerardo Rivera, a passionate Data Scientist and Frontend Developer with experience in project management and data analysis. I have worked as a Technical Construction Supervisor and General Manager in medical dispensaries, coordinating operations and optimizing processes. I possess skills in Python, PyTorch, GitHub, NoSQL, and SQL, and have recently completed certifications in Data Science and NASA Open Science.
+
+My background in Software Engineering and Business Management, along with my problem-solving and critical thinking abilities, enable me to provide innovative and effective solutions.
 
 #DataScience #MachineLearning #DeepLearning #AI #BigData #DataAnalysis
 
