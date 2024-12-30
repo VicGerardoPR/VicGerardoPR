@@ -8,12 +8,13 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VicGerardoPR)
 
 
-Hi! I'm Victor Gerardo Rivera, a passionate Data Scientist and Frontend Developer with experience in project management and data analysis. I have worked as a Technical Construction Supervisor and General Manager in medical dispensaries, coordinating operations and optimizing processes. I possess skills in Python(Pandas, Keras, Numpy, Matplotlib, Seaborn), PyTorch, Tensorflow, Git, PowerBi, Tableau, NoSQL, and SQL, and continuos studiyng, have recently completed certifications in Data Science and NASA Open Science.
+Hi! I'm Victor Gerardo Rivera, an accomplished AI Engineer and Data Scientist with a strong foundation in data analysis and application development. I have successfully completed certifications in Data Science and AI Engineering, equipping me with hands-on expertise in cutting-edge technologies and methodologies.
 
-My background in Software Engineering and Business Management, along with my problem-solving and critical thinking abilities, enable me to provide innovative and effective solutions.
+I specialize in tools and frameworks such as Python (Pandas, Keras, NumPy, Matplotlib, Seaborn), PyTorch, TensorFlow, Git, Power BI, Tableau, SQL, and NoSQL. My training includes designing and deploying AI systems, building machine learning models, and leveraging data visualization to uncover actionable insights.
 
-#DataScience #MachineLearning #DeepLearning #AI #BigData #DataAnalysis
+With a background in Software Engineering and Business Management, I combine technical skills with strategic thinking to deliver innovative and impactful solutions. My passion for problem-solving and commitment to continuous growth drive me to stay at the forefront of technological advancements.
 
+#AIEngineering #DataScience #MachineLearning #DeepLearning #BigData #DataAnalysis
 Web: https://vicgerardopr.github.io
 ---
 
