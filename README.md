@@ -15,6 +15,7 @@ I specialize in tools and frameworks such as Python (Pandas, Keras, NumPy, Matpl
 With a background in Software Engineering and Business Management, I combine technical skills with strategic thinking to deliver innovative and impactful solutions. My passion for problem-solving and commitment to continuous growth drive me to stay at the forefront of technological advancements.
 
 #AIEngineering #DataScience #MachineLearning #DeepLearning #BigData #DataAnalysis
+
 Web: https://vicgerardopr.github.io
 
 HuggingFace: https://huggingface.co/VicGerardoPR
