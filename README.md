@@ -16,6 +16,7 @@ With a background in Software Engineering and Business Management, I combine tec
 
 #AIEngineering #DataScience #MachineLearning #DeepLearning #BigData #DataAnalysis
 Web: https://vicgerardopr.github.io
+
 HuggingFace: https://huggingface.co/VicGerardoPR
 ---
 
