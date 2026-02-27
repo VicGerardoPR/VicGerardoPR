@@ -16,7 +16,8 @@ With a background in Software Engineering and Business Management, I bridge the 
 
 #AIEngineering #DataScience #MachineLearning #DeepLearning #BigData #DataAnalysis
 
-Web: https://vicgerardopr.github.io
+Web:www.arcanointelligence.com 
+    https://vicgerardopr.github.io
 
 HuggingFace: https://huggingface.co/VicGerardoPR
 ---
